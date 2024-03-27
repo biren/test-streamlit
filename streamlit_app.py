@@ -12,7 +12,7 @@ import zipfile
 st.set_page_config(page_title='ML Model Building', page_icon='🤖')
 st.title('🤖 ML Model Building')
 
-with st.expander('About this app'):
+with st.expander('About BG Test App'):
   st.markdown('**What can this app do?**')
   st.info('This app allow users to build a machine learning (ML) model in an end-to-end workflow. Particularly, this encompasses data upload, data pre-processing, ML model building and post-model analysis.')
 
